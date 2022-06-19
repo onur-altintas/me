@@ -11,22 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Industrial Engineering, Bilkent University, 2014
+* M.S. in Industrial Engineering, Bilkent University, 2016
+* M.S. in Business Administration (Operations Management), Simon School of Business - University of Rochester, 2019
+* Ph.D in Business Administration (Information Systems), Questrom School of Business - Boston University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Teaching Assistant
+#### Questrom School of Business - Boston University
+* Summer 2022:&nbsp;  IS754 &nbsp;&nbsp;- Human Centered Design
+* Summer 2022:&nbsp; IS756 &nbsp;&nbsp;- Digital Project Build
+* Spring 2022:&nbsp;&ensp; &emsp; HM817 - Advances in Digital Health
+* Spring 2021:&nbsp;&ensp; &emsp; HM817 - Advances in Digital Health
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+#### Simon School of Business - University of Rochester
+* Summer 2020: &nbsp; OM402 - Introduction to Operations Management
+* Spring 2020: &nbsp;&nbsp;&nbsp;&nbsp; GBA411 - Business Modeling
+* Spring 2019: &nbsp;&nbsp;&nbsp;&nbsp; GBA411 - Business Modeling
+* Fall 2019: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CIS 418 - Advanced Business Modeling & Analysis
+* Pre-Fall 2019: &nbsp;&nbsp;&nbsp;CIS464 &nbsp;- Core Stats for MS Students
+
 Skills
 ======
 * Skill 1
