@@ -244,6 +244,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _CV
+  - scope:
+      path: "files/cv.pdf"
+      type: CV
+    values:
+      layout: default
+      author_profile: true
+      share: true
+
+
 
 # Sass/SCSS
 sass:
