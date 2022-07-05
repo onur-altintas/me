@@ -14,4 +14,3 @@ However, the provided recommendation for lower limit of the MAP range has not be
 In this work, we suggest that maintaining MAP less then 75 mmHg during long-term follow-up in LVAD recepients is associated with increased risk of stroke/death.
 
 
-Recommended citation: Vidula H, Altintas O, McNitt S, DeVore AD, Birati EY, Genuardi MV, Sheikh FH, Polonsky B, Alexis JD, Gosev I, Bisognano JD, Kutyifa V, Seidmann A, Goldenberg I. Low Blood Pressure Threshold for Adverse Outcomes During Left Ventricular Assist Device Support. Am J Cardiol. 2022 Apr 15;169:78-85. doi: 10.1016/j.amjcard.2021.12.045. Epub 2022 Jan 19. PMID: 35063265.
