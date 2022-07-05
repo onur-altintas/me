@@ -2,7 +2,10 @@
 title: "Low Blood Pressure Threshold for Adverse Outcomes During Left Ventricular Assist Device Support"
 collection: research
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'It has been suggested that maintaining low mean arterial pressure (MAP) in left ventricular assist device (LVAD) recipients is associated with a reduced risk of stroke/death.
+However, the provided recommendation for lower limit of the MAP range has not been established.
+In this work, we propose that maintaining MAP less than 75 mmHg during long-term follow-up in LVAD recepients is associated with increased risk of stroke/death.
+'
 date: 2009-10-01
 venue: 'Americal Journal of Cardiology'
 paperurl: 'https://www.ajconline.org/article/S0002-9149(21)01281-9/fulltext'
@@ -11,6 +14,6 @@ citation: 'Vidula H, Altintas O, McNitt S, DeVore AD, Birati EY, Genuardi MV, Sh
 ---
 It has been suggested that maintaining low mean arterial pressure (MAP) in left ventricular assist device (LVAD) recipients is associated with a reduced risk of stroke/death.
 However, the provided recommendation for lower limit of the MAP range has not been established.
-In this work, we suggest that maintaining MAP less then 75 mmHg during long-term follow-up in LVAD recepients is associated with increased risk of stroke/death.
+In this work, we propose that maintaining MAP less than 75 mmHg during long-term follow-up in LVAD recepients is associated with increased risk of stroke/death.
 
 
