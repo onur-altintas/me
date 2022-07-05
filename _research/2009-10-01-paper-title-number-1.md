@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Low Blood Pressure Threshold for Adverse Outcomes During Left Ventricular Assist Device Support"
 collection: research
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Americal Journal of Cardiology'
+paperurl: 'https://www.ajconline.org/article/S0002-9149(21)01281-9/fulltext'
+citation: 'Vidula H, Altintas O, McNitt S, DeVore AD, Birati EY, Genuardi MV, Sheikh FH, Polonsky B, Alexis JD, Gosev I, Bisognano JD, Kutyifa V, Seidmann A, Goldenberg I. Low Blood Pressure Threshold for Adverse Outcomes During Left Ventricular Assist Device Support. Am J Cardiol. 2022 Apr 15;169:78-85. doi: 10.1016/j.amjcard.2021.12.045. Epub 2022 Jan 19. PMID: 35063265.
+'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Vidula H, Altintas O, McNitt S, DeVore AD, Birati EY, Genuardi MV, Sheikh FH, Polonsky B, Alexis JD, Gosev I, Bisognano JD, Kutyifa V, Seidmann A, Goldenberg I. Low Blood Pressure Threshold for Adverse Outcomes During Left Ventricular Assist Device Support. Am J Cardiol. 2022 Apr 15;169:78-85. doi: 10.1016/j.amjcard.2021.12.045. Epub 2022 Jan 19. PMID: 35063265.
