@@ -4,8 +4,6 @@ collection: research
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2022-07-01
-venue: ''
-paperurl: ''
 ---
 
 In recent years, the interpretability of sophisticated AI and ML models has gained importance.
