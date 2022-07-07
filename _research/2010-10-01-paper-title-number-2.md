@@ -1,21 +1,15 @@
 ---
-title: "Bi-objective optimization of a grid-connected decentralized energy system"
+title: "Paper Title Number 2"
 collection: research
-permalink: 
-excerpt: ''
-date: 2018-01-18
-venue: 'International Journal of Energy Research'
-paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/er.3813'
-citation: 'Altintas, O, Okten, B, Karsu, O, Kocaman, AS. Bi-objective optimization of a grid-connected decentralized energy system. Int J Energy Res. 2018; 42: 447– 465. https://doi.org/10.1002/er.3813'
+permalink: /research/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Motivated by the increasing transition from fossil fuel–based centralized systems to renewable energy–based decentralized systems,
-we consider a bi-objective investment planning problem of a grid-connected decentralized hybrid renewable energy system.
-In this system, solar and wind are the main electricity generation resources. 
-A national grid is assumed to be a carbon-intense alternative to the renewables and is used as a backup source to ensure reliability.
-We consider both total cost and carbon emissions caused by electricity purchased from the grid.
-We first discuss a novel simulation-optimization algorithm and then adapt multi-objective metaheuristic algorithms.
-We integrate a simulation module to these algorithms to handle the stochastic nature of this bi-objective problem.
-We perform extensive comparative analysis for the solution approaches and report their performances 
-in terms of solution time and quality based on well-known measures from the literature.
+This paper is about the number 2. The number 3 is left for future work.
 
-Recommended citation: Altintas, O, Okten, B, Karsu, O, Kocaman, AS. Bi-objective optimization of a grid-connected decentralized energy system. Int J Energy Res. 2018; 42: 447– 465.
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
