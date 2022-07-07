@@ -18,4 +18,4 @@ We integrate a simulation module to these algorithms to handle the stochastic na
 We perform extensive comparative analysis for the solution approaches and report their performances 
 in terms of solution time and quality based on well-known measures from the literature.
 
-Recommended citation: Altintas, O, Okten, B, Karsu, O, Kocaman, AS. Bi-objective optimization of a grid-connected decentralized energy system. Int J Energy Res. 2018; 42: 447– 465. https://doi.org/10.1002/er.3813
+Recommended citation: Altintas, O, Okten, B, Karsu, O, Kocaman, AS. Bi-objective optimization of a grid-connected decentralized energy system. Int J Energy Res. 2018; 42: 447– 465.

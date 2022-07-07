@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "The Effect of Artificial Intelligence Interpretability on Managerial Decision-Making"
 collection: research
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: ''
+date: 2022-07-01
+venue: 'In progress'
+paperurl: ''
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+In recent years, the interpretability of sophisticated AI and ML models has gained importance.
+With interpretability, companies aim to increase their performance by promoting the adoption of better-performing AI systems.
+It has been shown that interpretability increases adoption, trust, and performance in predictable environments.
+However, users tend to resist following algorithmic advice in inherently uncertain domains such as recommending stocks,
+providing medical care, and managing a retail supply chain. In this work, 
+we empirically investigate the effect of interpretability on adoption, trust, and performance in an uncertain business domain.
